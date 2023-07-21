@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/merafurniture/static/css/main.9cfbb529.css",
+    "main.js": "/merafurniture/static/js/main.64d83660.js",
+    "static/js/787.cd65ad23.chunk.js": "/merafurniture/static/js/787.cd65ad23.chunk.js",
+    "static/media/slick.svg": "/merafurniture/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/merafurniture/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/merafurniture/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/merafurniture/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/merafurniture/index.html",
+    "main.9cfbb529.css.map": "/merafurniture/static/css/main.9cfbb529.css.map",
+    "main.64d83660.js.map": "/merafurniture/static/js/main.64d83660.js.map",
+    "787.cd65ad23.chunk.js.map": "/merafurniture/static/js/787.cd65ad23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cfbb529.css",
+    "static/js/main.64d83660.js"
+  ]
+}
