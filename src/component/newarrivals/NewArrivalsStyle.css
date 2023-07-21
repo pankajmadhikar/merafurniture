@@ -1,0 +1,26 @@
+.newarrivals {
+  background-color: #ffaab8;
+}
+.arrival-box {
+  width: 250px;
+  height: 350px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrival-box .img {
+  width: 280px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrival-box .img img {
+  width: 100%;
+  width: 100%;
+  padding-left: 1rem;
+}
+.arrival-nametop {
+  padding-left: 1rem;
+}

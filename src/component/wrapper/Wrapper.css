@@ -1,0 +1,30 @@
+.wrapper-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.w-cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.w-cart p {
+  text-align: center;
+}
+.w-cart h3 {
+  text-align: center;
+}
+@media (max-width: 1000px) {
+  .wrapper-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .w-cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+  }
+}

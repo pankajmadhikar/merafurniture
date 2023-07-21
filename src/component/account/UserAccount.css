@@ -1,0 +1,17 @@
+.user-account-main {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.user-account-main-child button {
+  text-align: center;
+  width: 100%;
+  padding: 0.7rem;
+  border-radius: 25px;
+  background-color: #0f3460;
+  color: #fff;
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.checkout-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 120vh;
+}
+.checkout-main-child {
+  height: 80%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.checkout-main-child input {
+  border: 0.5px solid #999;
+  padding: 1rem;
+  font-size: 1rem;
+}
+.checkout-main-child button {
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 25px;
+  cursor: pointer;
+  background-color: #0f3460;
+  color: #fff;
+}

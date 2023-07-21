@@ -1,0 +1,17 @@
+.home-stories-main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.home-stories-top {
+  width: 70%;
+}
+.home-stories-main h1 {
+  text-align: center;
+  color: #222;
+  margin-top: 2rem;
+}
+.home-stories-main p {
+  text-align: center;
+  color: #777;
+}
